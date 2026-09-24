@@ -1,0 +1,70 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="160dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Crescent Moon Background -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,15 C50,15 35,30 35,50 C35,70 50,85 70,85 C55,85 43,72 43,50 C43,28 55,15 70,15 Z" />
+
+    <!-- Stars -->
+    <!-- Star 1 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,20 L27,25 L32,27 L27,29 L25,34 L23,29 L18,27 L23,25 Z" />
+    <!-- Star 2 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,65 L81.5,69 L85.5,70.5 L81.5,72 L80,76 L78.5,72 L74.5,70.5 L78.5,69 Z" />
+    <!-- Star 3 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,70 L21,73 L24,74 L21,75 L20,78 L19,75 L16,74 L19,73 Z" />
+
+    <!-- Cat Ears -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,38 L48,22 L55,35 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M75,38 L67,22 L60,35 Z" />
+
+    <!-- Cat Head Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57.5,30 C42,30 36,42 36,55 C36,68 45,76 57.5,76 C70,76 79,68 79,55 C79,42 73,30 57.5,30 Z" />
+
+    <!-- Cat Face Features (Black overlay cutouts for sleek minimalist contrast) -->
+    <!-- Eyes -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M47,50 C47,47 50,45 53,45 C56,45 58,47 58,50 C58,53 56,54 53,54 C50,54 47,53 47,50 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M57,50 C57,47 60,45 63,45 C66,45 68,47 68,50 C68,53 66,54 63,54 C60,54 57,53 57,50 Z" />
+
+    <!-- Third Eye / Moon on Forehead -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M57.5,37 C55.5,37 54,38.5 54,40.5 C54,42.5 55.5,44 57.5,44 C56,44 55,42.5 55,40.5 C55,38.5 56,37 57.5,37 Z" />
+
+    <!-- Nose -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M56,58 L59,58 L57.5,61 Z" />
+
+    <!-- Mouth -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M57.5,61 Q54,65 51,63 M57.5,61 Q61,65 64,63" />
+
+    <!-- Whiskers -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M35,52 L22,50 M34,58 L20,58 M35,64 L23,66 M80,52 L93,50 M81,58 L95,58 M80,64 L92,66" />
+</vector>

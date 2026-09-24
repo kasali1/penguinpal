@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CATNI</string>
+    <string name="catni_title">CATNI</string>
+    <string name="catni_subtitle">ASTROLOGY FOR CATS</string>
+    <string name="login_subtitle">LOG IN TO YOUR CAT\'S ACCOUNT</string>
+    <string name="signup_subtitle">CREATE YOUR CAT\'S COSMIC PROFILE</string>
+    <string name="cat_logo_desc">CATNI Cosmic Cat Logo</string>
+    <string name="main_tagline">DISCOVER YOUR CAT\'S COSMIC DESTINY</string>
+    <string name="description_text">Daily horoscopes, sun signs, and mood forecasts tailored to your feline\'s cosmic alignment.</string>
+    <string name="login_btn">LOG IN</string>
+    <string name="signup_btn">GET STARTED</string>
+    <string name="create_account_btn">CREATE ACCOUNT</string>
+    <string name="help_text">Need help? Contact CATNI support.</string>
+    <string name="back_to_welcome">← Back to Welcome Screen</string>
+
+    <string name="hint_email">Cat\'s Email or Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_cat_name">Cat\'s Name</string>
+    <string name="hint_sun_sign">Sun Sign (e.g. Leo, Scorpio)</string>
+
+    <string name="welcome_greeting">✨ WELCOME BACK, COSMIC CAT! ✨</string>
+    <string name="daily_horoscope_title">TODAY\'S CAT HOROSCOPE</string>
+    <string name="sample_horoscope">"The Moon is in alignment with your Sun sign today. Expect high energy during 3 AM zoomies, and a strong urge to lounge in a warm sunbeam. Treat yourself to extra catnip."</string>
+    <string name="logout_btn">LOG OUT</string>
+</resources>
